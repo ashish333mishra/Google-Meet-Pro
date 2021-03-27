@@ -6,6 +6,7 @@
 .container{
     width: 20rem;
     height: 10rem;
+    text-align: center;
 }
 #new{
     display: flex;
